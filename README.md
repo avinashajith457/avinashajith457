@@ -1,5 +1,3 @@
-
-<!--
 **avinashajith457/av# 👋 Hi, I'm Avinash A
 
 🎯 Aspiring Cybersecurity Professional  
@@ -60,4 +58,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
