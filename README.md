@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **avinashajith457/av# 👋 Hi, I'm Avinash A
