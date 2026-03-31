@@ -1,4 +1,4 @@
-**avinashajith457/av# 👋 Hi, I'm Avinash A
+# 👋 Hi, I'm Avinash A
 
 🎯 Aspiring Cybersecurity Professional  
 🔐 Passionate about Ethical Hacking, Network Security & Digital Defense  
